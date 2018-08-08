@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#333333</color>
+    <color name="colorPrimaryDark">#1e1e1e</color>
+    <color name="colorAccent">#ffc701</color>
+    <color name="colorBackground">#eeeeee</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorHomeTabIndicator">#4FC3F7</color>
+    <color name="colorFavouriteTabIndicator">#F44336</color>
+    <color name="colorGridRow1">#e90c59</color>
+    <color name="colorGridRow2">#fe718d</color>
+    <color name="colorGridRow3">#ffe6f5</color>
+    <color name="colorGridRow4">#c2dfd7</color>
+</resources>
